@@ -51,12 +51,12 @@ Grab the latest release for your architecture from the [Releases Page](https://g
 
 **Become a Warden (Provide Bandwidth, Earn SOL)**
 ```bash
-sudo ./zarkham-cli gui --profile warden
+sudo ./zarkham gui --profile warden
 ```
 
 **Connect as Seeker (Browse Privately, Pay-as-you-Go)**
 ```bash
-sudo ./zarkham-cli gui --profile seeker
+sudo ./zarkham gui --profile seeker
 ```
 
 ---
