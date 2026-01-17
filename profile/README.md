@@ -1,4 +1,4 @@
-<img src="../decentralized virtual private network.png" alt="Arkham dVPN for DAWN" />
+<img src="../ZARKHAM-X-Banner.png" alt="ZARKHAM dVPN" />
 
 # Arkham dVPN
 
